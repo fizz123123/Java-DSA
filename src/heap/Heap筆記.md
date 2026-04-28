@@ -1,4 +1,4 @@
-# Heap (堆積) 核心概念與筆記
+# Heap (堆積) 筆記
 
 ## 1. 基本定義
 - Heap 是一種特殊的「**完全二元樹 (Complete Binary Tree)**」
